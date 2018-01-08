@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@mail.ru",
       "password": "qwerty12",
-      "name": "Администратор"
+      "name": "Павел"
     }
   ],
   "bill": {
@@ -40,7 +40,7 @@
     {
       "id": 6,
       "name": "Зарплата",
-      "capacity": 50000
+      "capacity": 0
     },
     {
       "id": 7,
